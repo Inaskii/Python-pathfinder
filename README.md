@@ -1,8 +1,6 @@
 # Labirito
 
-## Nesta aplicação é possivel se criar um labirito por conta própria, deixando apenas o código conseguir resolver o desafio por si
-
-## Aqui a árvore de decisão é usada para a resolução do labirinto
+## Aplicação de um A* Pathfinder em python
 
 ### Controles
 
